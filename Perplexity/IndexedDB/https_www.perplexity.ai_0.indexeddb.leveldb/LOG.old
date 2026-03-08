@@ -1,0 +1,6 @@
+2026/03/08-01:00:21.893 493a Reusing MANIFEST /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/08-01:00:21.893 493a Recovering log #1178
+2026/03/08-01:00:21.906 493a Reusing old log /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/001178.log 
+2026/03/08-01:00:22.427 499e Level-0 table #1184: started
+2026/03/08-01:00:22.441 499e Level-0 table #1184: 1639234 bytes OK
+2026/03/08-01:00:22.444 499e Delete type=0 #1178

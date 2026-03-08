@@ -1,0 +1,4 @@
+2026/03/08-10:02:57.366 224a Reusing MANIFEST /home/herbobra/.config/Perplexity/Local Storage/leveldb/MANIFEST-000001
+2026/03/08-10:02:57.376 224a Recovering log #36
+2026/03/08-10:02:57.377 224a (ignoring error) /home/herbobra/.config/Perplexity/Local Storage/leveldb/000036.log: dropping 105 bytes; Corruption: missing start of fragmented record(2)
+2026/03/08-10:02:57.377 224a Reusing old log /home/herbobra/.config/Perplexity/Local Storage/leveldb/000036.log 

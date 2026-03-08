@@ -1,0 +1,12 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x008file:///home/herbobra/Projects/dotfiles/dotfiles/.config\x00\x00\x00\x00\x01\x00\x00\x00?file:///home/herbobra/Projects/dotfiles/dotfiles/.config/bashrc\x00\x00\x00\x18\x00\x00\x00?file:///home/herbobra/Projects/dotfiles/dotfiles/.config/bashrc\x00\x00\x00Bfile:///home/herbobra/Projects/dotfiles/dotfiles/.config/fastfetch\x00\x00\x00=file:///home/herbobra/Projects/dotfiles/dotfiles/.config/fish\x00\x00\x00@file:///home/herbobra/Projects/dotfiles/dotfiles/.config/gtk-3.0\x00\x00\x00@file:///home/herbobra/Projects/dotfiles/dotfiles/.config/gtk-4.0\x00\x00\x00=file:///home/herbobra/Projects/dotfiles/dotfiles/.config/hypr\x00\x00\x00>file:///home/herbobra/Projects/dotfiles/dotfiles/.config/kitty\x00\x00\x00@file:///home/herbobra/Projects/dotfiles/dotfiles/.config/matugen\x00\x00\x00=file:///home/herbobra/Projects/dotfiles/dotfiles/.config/ml4w\x00\x00\x00=file:///home/herbobra/Projects/dotfiles/dotfiles/.config/nvim\x00\x00\x00Jfile:///home/herbobra/Projects/dotfiles/dotfiles/.config/nwg-dock-hyprland\x00\x00\x00Afile:///home/herbobra/Projects/dotfiles/dotfiles/.config/ohmyposh\x00\x00\x00>file:///home/herbobra/Projects/dotfiles/dotfiles/.config/qt6ct\x00\x00\x00=file:///home/herbobra/Projects/dotfiles/dotfiles/.config/rofi\x00\x00\x00@file:///home/herbobra/Projects/dotfiles/dotfiles/.config/sidepad\x00\x00\x00?file:///home/herbobra/Projects/dotfiles/dotfiles/.config/swaync\x00\x00\x00<file:///home/herbobra/Projects/dotfiles/dotfiles/.config/vim\x00\x00\x00?file:///home/herbobra/Projects/dotfiles/dotfiles/.config/waybar\x00\x00\x00Afile:///home/herbobra/Projects/dotfiles/dotfiles/.config/waypaper\x00\x00\x00@file:///home/herbobra/Projects/dotfiles/dotfiles/.config/wlogout\x00\x00\x00Cfile:///home/herbobra/Projects/dotfiles/dotfiles/.config/xsettingsd\x00\x00\x00>file:///home/herbobra/Projects/dotfiles/dotfiles/.config/zshrc\x00\x00\x00Lfile:///home/herbobra/Projects/dotfiles/dotfiles/.config/chromium-flags.conf\x00\x00\x00Hfile:///home/herbobra/Projects/dotfiles/dotfiles/.config/edge-flags.conf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1

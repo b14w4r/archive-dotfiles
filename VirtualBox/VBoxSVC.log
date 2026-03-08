@@ -1,0 +1,102 @@
+00:00:00.000137 main     VirtualBox XPCOM Server 7.2.2 r170484 linux.amd64 (Sep 24 2025 20:15:03) release log
+00:00:00.000140 main     Log opened 2025-10-25T06:45:11.789936000Z
+00:00:00.000141 main     Build Type: release
+00:00:00.000144 main     OS Product: Linux
+00:00:00.000145 main     OS Release: 6.17.4-arch2-1
+00:00:00.000147 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sun, 19 Oct 2025 19:21:18 +0000
+00:00:00.000165 main     DMI Product Name: Vivobook_ASUSLaptop M1502IA_M1502IA
+00:00:00.000173 main     DMI Product Version: 1.0       
+00:00:00.000178 main     Firmware type: UEFI
+00:00:00.000332 main     Secure Boot: Disabled
+00:00:00.000361 main     Host RAM: 15399MB (15.0GB) total, 12609MB (12.3GB) available
+00:00:00.000363 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000364 main     Process ID: 21403
+00:00:00.000366 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.005233 main     IPC socket path: /tmp/.vbox-herbobra-ipc/ipcd
+00:00:00.007375 DCon01   VirtualBox: object creation starts
+00:00:00.007435 DCon01   Home directory: '/home/herbobra/.config/VirtualBox'
+00:00:00.019120 DCon01   HostDnsMonitor: initializing
+00:00:00.019373 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.019384 DCon01   NAT: resolv.conf: FIXME: ignoring IPv6 zone %enp4s0f3u1u1
+00:00:00.019389 DCon01   NAT: resolv.conf: nameserver fe80::a5a:11ff:fece:940a
+00:00:00.019406 DCon01   HostDnsMonitor: updating information
+00:00:00.019421 DCon01   HostDnsMonitor: old information
+00:00:00.019425 DCon01     no server entries
+00:00:00.019429 DCon01     no domain set
+00:00:00.019434 DCon01     no search string entries
+00:00:00.019438 DCon01   HostDnsMonitor: new information
+00:00:00.019442 DCon01     server 1: 192.168.0.1
+00:00:00.019446 DCon01     server 2: fe80::a5a:11ff:fece:940a%enp4s0f3u1u1
+00:00:00.019450 DCon01     no domain set
+00:00:00.019455 DCon01     no search string entries
+00:00:00.020954 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.021091 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.021867 DCon01   VirtualBox: object created
+00:00:00.621336 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:00.976242 DCon03   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.983254 DCon03   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:03:12.619759 DCon10   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:12.628223 DCon10   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:03:17.098773 DCon10   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:17.105571 DCon10   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:11:28.797787 DCon19   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:28.804985 DCon19   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:11:30.104356 DCon17   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:30.111137 DCon17   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:11:34.392617 DCon19   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:34.399714 DCon19   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:11:43.920135 DCon19   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:11:43.925315 DCon19   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:43.926896 DCon19   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:11:43.929699 DCon19   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:43.931304 DCon19   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:12:15.163283 createBase Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:15.170853 createBase Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:12:15.176290 DCon20   Platform architecture set to 'x86'
+00:12:15.176382 DCon20   Platform architecture set to 'x86'
+00:12:15.176392 DCon20   Platform architecture set to 'x86'
+00:12:15.176676 DCon20   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:15.176700 DCon20   Platform architecture set to 'x86'
+00:12:15.177585 DCon20   Saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox" with version "1.19-linux"
+00:12:15.184273 DCon20   Finished saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox"
+00:12:15.184354 DCon20   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:15.185774 DCon20   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:12:15.187134 DCon20   Platform architecture set to 'x86'
+00:12:15.188963 DCon20   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:15.190260 DCon20   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:12:15.190521 DCon21   Saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox" with version "1.19-linux"
+00:12:15.191880 DCon21   Finished saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox"
+00:12:15.193539 DCon20   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:15.194802 DCon20   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:12:15.195061 DCon20   Saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox" with version "1.19-linux"
+00:12:15.196318 DCon20   Finished saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox"
+00:12:15.196647 DCon20   Saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox" with version "1.19-linux"
+00:12:15.197894 DCon20   Finished saving settings file "/home/herbobra/VirtualBox VMs/winda/winda.vbox"
+00:12:15.250117 DCon20   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:15.265326 DCon20   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:15.266665 DCon20   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:12:15.346256 DCon20   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:15.397706 DCon20   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:15.399078 DCon20   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:15.563773 DCon20   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:15.570517 DCon20   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:12:19.158377 DCon20   Launched VM: 1610703936 pid: 25835 (0x64eb) frontend: GUI/Qt name: winda
+00:12:19.194337 DCon22   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:19.195682 DCon22   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:12:19.211082 DCon22   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:19.251575 DCon22   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:19.253409 DCon22   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:19.658677 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'winda' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:12:19.692494 DCon21   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:19.693951 DCon21   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:12:19.708817 DCon21   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:19.748679 DCon21   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:19.749950 DCon21   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:13:15.680096 DCon21   Saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:15.686965 DCon21   Finished saving settings file "/home/herbobra/.config/VirtualBox/VirtualBox.xml"
+00:13:21.201662 main     VirtualBox: object deletion starts
+00:13:21.201695 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/herbobra/VirtualBox VMs/winda/winda.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:21.202101 main     HostDnsMonitor: shutting down ...
+00:13:21.202822 main     HostDnsMonitor: shut down
+00:13:21.213392 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:13:21.213464 main     VirtualBox: object deleted

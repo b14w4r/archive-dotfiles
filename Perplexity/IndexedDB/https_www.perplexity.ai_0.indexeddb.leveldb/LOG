@@ -1,0 +1,202 @@
+2026/03/08-10:02:57.799 228e Reusing MANIFEST /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/08-10:02:57.799 228e Recovering log #1183
+2026/03/08-10:02:57.806 228e Reusing old log /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/001183.log 
+2026/03/08-10:02:59.623 228e Level-0 table #1187: started
+2026/03/08-10:02:59.636 228e Level-0 table #1187: 1654061 bytes OK
+2026/03/08-10:02:59.637 228e Delete type=0 #1183
+2026/03/08-10:03:19.763 228e Compacting 1@0 + 1@1 files
+2026/03/08-10:03:19.774 228e Generated table #1188@0: 6305 keys, 492508 bytes
+2026/03/08-10:03:19.774 228e Compacted 1@0 + 1@1 files => 492508 bytes
+2026/03/08-10:03:19.775 228e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-10:03:19.775 228e Delete type=2 #1187
+2026/03/08-10:03:19.775 228e Delete type=2 #1184
+2026/03/08-10:21:21.851 224a Compacting 1@1 + 1@2 files
+2026/03/08-10:21:21.863 224a Generated table #1189@1: 1305 keys, 668712 bytes
+2026/03/08-10:21:21.863 224a Compacted 1@1 + 1@2 files => 668712 bytes
+2026/03/08-10:21:21.864 224a compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/08-10:21:21.865 224a Delete type=2 #1181
+2026/03/08-10:21:21.865 224a Delete type=2 #1188
+2026/03/08-13:07:11.483 224a Level-0 table #1191: started
+2026/03/08-13:07:11.493 224a Level-0 table #1191: 1544081 bytes OK
+2026/03/08-13:07:11.495 224a Delete type=0 #1186
+2026/03/08-13:07:15.332 228f Level-0 table #1193: started
+2026/03/08-13:07:15.337 228f Level-0 table #1193: 1046287 bytes OK
+2026/03/08-13:07:15.339 228f Delete type=0 #1190
+2026/03/08-13:07:19.001 228f Level-0 table #1195: started
+2026/03/08-13:07:19.012 228f Level-0 table #1195: 1045269 bytes OK
+2026/03/08-13:07:19.014 228f Delete type=0 #1192
+2026/03/08-13:07:21.502 228f Compacting 1@1 + 1@2 files
+2026/03/08-13:07:21.516 228f Generated table #1196@1: 1074 keys, 734440 bytes
+2026/03/08-13:07:21.516 228f Compacted 1@1 + 1@2 files => 734440 bytes
+2026/03/08-13:07:21.518 228f compacted to: files[ 2 0 1 0 0 0 0 ]
+2026/03/08-13:07:21.518 228f Delete type=2 #1189
+2026/03/08-13:07:21.518 228f Delete type=2 #1191
+2026/03/08-13:07:22.646 224a Compacting 2@0 + 0@1 files
+2026/03/08-13:07:22.656 224a Generated table #1197@0: 324 keys, 59684 bytes
+2026/03/08-13:07:22.656 224a Compacted 2@0 + 0@1 files => 59684 bytes
+2026/03/08-13:07:22.657 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:07:22.657 224a Delete type=2 #1195
+2026/03/08-13:07:22.657 224a Delete type=2 #1193
+2026/03/08-13:07:23.832 228e Level-0 table #1199: started
+2026/03/08-13:07:23.843 228e Level-0 table #1199: 1054153 bytes OK
+2026/03/08-13:07:23.845 228e Delete type=0 #1194
+2026/03/08-13:07:29.466 228e Level-0 table #1201: started
+2026/03/08-13:07:29.476 228e Level-0 table #1201: 1077919 bytes OK
+2026/03/08-13:07:29.478 228e Delete type=0 #1198
+2026/03/08-13:12:22.106 224a Compacting 2@0 + 1@1 files
+2026/03/08-13:12:22.115 224a Generated table #1202@0: 616 keys, 52007 bytes
+2026/03/08-13:12:22.115 224a Compacted 2@0 + 1@1 files => 52007 bytes
+2026/03/08-13:12:22.116 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:12:22.116 224a Delete type=2 #1201
+2026/03/08-13:12:22.116 224a Delete type=2 #1197
+2026/03/08-13:12:22.116 224a Delete type=2 #1199
+2026/03/08-13:12:22.606 228e Level-0 table #1204: started
+2026/03/08-13:12:22.618 228e Level-0 table #1204: 1257110 bytes OK
+2026/03/08-13:12:22.621 228e Delete type=0 #1200
+2026/03/08-13:12:30.494 228e Level-0 table #1206: started
+2026/03/08-13:12:30.504 228e Level-0 table #1206: 1004928 bytes OK
+2026/03/08-13:12:30.506 228e Delete type=0 #1203
+2026/03/08-13:12:34.153 224a Compacting 2@0 + 1@1 files
+2026/03/08-13:12:34.163 224a Generated table #1207@0: 1058 keys, 99252 bytes
+2026/03/08-13:12:34.163 224a Compacted 2@0 + 1@1 files => 99252 bytes
+2026/03/08-13:12:34.165 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:12:34.165 224a Delete type=2 #1206
+2026/03/08-13:12:34.165 224a Delete type=2 #1204
+2026/03/08-13:12:34.165 224a Delete type=2 #1202
+2026/03/08-13:12:39.457 224a Level-0 table #1209: started
+2026/03/08-13:12:39.464 224a Level-0 table #1209: 1814905 bytes OK
+2026/03/08-13:12:39.465 224a Delete type=0 #1205
+2026/03/08-13:14:20.120 224a Level-0 table #1211: started
+2026/03/08-13:14:20.133 224a Level-0 table #1211: 2104260 bytes OK
+2026/03/08-13:14:20.135 224a Delete type=0 #1208
+2026/03/08-13:14:26.944 224a Compacting 2@0 + 1@1 files
+2026/03/08-13:14:26.954 224a Generated table #1212@0: 1675 keys, 155474 bytes
+2026/03/08-13:14:26.954 224a Compacted 2@0 + 1@1 files => 155474 bytes
+2026/03/08-13:14:26.955 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:14:26.955 224a Delete type=2 #1211
+2026/03/08-13:14:26.955 224a Delete type=2 #1207
+2026/03/08-13:14:26.955 224a Delete type=2 #1209
+2026/03/08-13:14:29.832 228f Level-0 table #1214: started
+2026/03/08-13:14:29.845 228f Level-0 table #1214: 4159610 bytes OK
+2026/03/08-13:14:29.849 228f Delete type=0 #1210
+2026/03/08-13:14:32.482 228f Compacting 1@1 + 1@2 files
+2026/03/08-13:14:32.493 228f Generated table #1215@1: 1064 keys, 744981 bytes
+2026/03/08-13:14:32.493 228f Compacted 1@1 + 1@2 files => 744981 bytes
+2026/03/08-13:14:32.495 228f compacted to: files[ 1 0 1 0 0 0 0 ]
+2026/03/08-13:14:32.495 228f Delete type=2 #1212
+2026/03/08-13:14:32.495 228f Delete type=2 #1196
+2026/03/08-13:20:28.706 228e Level-0 table #1217: started
+2026/03/08-13:20:28.718 228e Level-0 table #1217: 1735196 bytes OK
+2026/03/08-13:20:28.720 228e Delete type=0 #1213
+2026/03/08-13:20:30.414 224a Compacting 2@0 + 0@1 files
+2026/03/08-13:20:30.423 224a Generated table #1218@0: 888 keys, 57247 bytes
+2026/03/08-13:20:30.423 224a Compacted 2@0 + 0@1 files => 57247 bytes
+2026/03/08-13:20:30.426 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:20:33.000 228e Level-0 table #1220: started
+2026/03/08-13:20:33.016 228e Level-0 table #1220: 3391346 bytes OK
+2026/03/08-13:20:33.018 228e Delete type=2 #1214
+2026/03/08-13:20:33.018 228e Delete type=2 #1217
+2026/03/08-13:20:33.018 228e Delete type=0 #1216
+2026/03/08-13:20:50.390 224a Compacting 1@1 + 1@2 files
+2026/03/08-13:20:50.401 224a Generated table #1221@1: 1050 keys, 654845 bytes
+2026/03/08-13:20:50.402 224a Compacted 1@1 + 1@2 files => 654845 bytes
+2026/03/08-13:20:50.403 224a compacted to: files[ 1 0 1 0 0 0 0 ]
+2026/03/08-13:20:50.404 224a Delete type=2 #1218
+2026/03/08-13:20:50.404 224a Delete type=2 #1215
+2026/03/08-13:20:52.114 224a Level-0 table #1223: started
+2026/03/08-13:20:52.128 224a Level-0 table #1223: 4169486 bytes OK
+2026/03/08-13:20:52.130 224a Delete type=0 #1219
+2026/03/08-13:22:33.400 228f Level-0 table #1225: started
+2026/03/08-13:22:33.412 228f Level-0 table #1225: 2644170 bytes OK
+2026/03/08-13:22:33.414 228f Delete type=0 #1222
+2026/03/08-13:22:36.299 224a Level-0 table #1227: started
+2026/03/08-13:22:36.306 224a Level-0 table #1227: 930829 bytes OK
+2026/03/08-13:22:36.308 224a Delete type=0 #1224
+2026/03/08-13:22:36.309 224a Compacting 4@0 + 0@1 files
+2026/03/08-13:22:36.316 224a Generated table #1228@0: 1484 keys, 135582 bytes
+2026/03/08-13:22:36.316 224a Compacted 4@0 + 0@1 files => 135582 bytes
+2026/03/08-13:22:36.317 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:22:36.317 224a Delete type=2 #1220
+2026/03/08-13:22:36.317 224a Delete type=2 #1225
+2026/03/08-13:22:36.317 224a Delete type=2 #1223
+2026/03/08-13:22:36.317 224a Delete type=2 #1227
+2026/03/08-13:22:41.967 224a Level-0 table #1230: started
+2026/03/08-13:22:41.977 224a Level-0 table #1230: 948495 bytes OK
+2026/03/08-13:22:41.979 224a Delete type=0 #1226
+2026/03/08-13:22:47.710 228e Level-0 table #1232: started
+2026/03/08-13:22:47.721 228e Level-0 table #1232: 956699 bytes OK
+2026/03/08-13:22:47.724 228e Delete type=0 #1229
+2026/03/08-13:22:51.171 228f Compacting 1@1 + 1@2 files
+2026/03/08-13:22:51.179 228f Generated table #1233@1: 1058 keys, 729342 bytes
+2026/03/08-13:22:51.179 228f Compacted 1@1 + 1@2 files => 729342 bytes
+2026/03/08-13:22:51.180 228f compacted to: files[ 2 0 1 0 0 0 0 ]
+2026/03/08-13:22:51.180 228f Delete type=2 #1221
+2026/03/08-13:22:51.180 228f Delete type=2 #1228
+2026/03/08-13:31:06.644 224a Compacting 2@0 + 0@1 files
+2026/03/08-13:31:06.654 224a Generated table #1234@0: 304 keys, 44317 bytes
+2026/03/08-13:31:06.654 224a Compacted 2@0 + 0@1 files => 44317 bytes
+2026/03/08-13:31:06.655 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:31:06.655 224a Delete type=2 #1230
+2026/03/08-13:31:06.655 224a Delete type=2 #1232
+2026/03/08-13:31:33.757 224a Level-0 table #1236: started
+2026/03/08-13:31:33.764 224a Level-0 table #1236: 1060342 bytes OK
+2026/03/08-13:31:33.766 224a Delete type=0 #1231
+2026/03/08-13:31:37.066 224a Level-0 table #1238: started
+2026/03/08-13:31:37.076 224a Level-0 table #1238: 920952 bytes OK
+2026/03/08-13:31:37.078 224a Delete type=0 #1235
+2026/03/08-13:31:42.068 228e Level-0 table #1240: started
+2026/03/08-13:31:42.078 228e Level-0 table #1240: 942416 bytes OK
+2026/03/08-13:31:42.080 228e Delete type=0 #1237
+2026/03/08-13:31:44.712 224a Compacting 3@0 + 1@1 files
+2026/03/08-13:31:44.723 224a Generated table #1241@0: 916 keys, 59084 bytes
+2026/03/08-13:31:44.723 224a Compacted 3@0 + 1@1 files => 59084 bytes
+2026/03/08-13:31:44.725 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:31:44.725 224a Delete type=2 #1238
+2026/03/08-13:31:44.726 224a Delete type=2 #1234
+2026/03/08-13:31:44.726 224a Delete type=2 #1236
+2026/03/08-13:31:44.726 224a Delete type=2 #1240
+2026/03/08-13:31:49.342 224a Level-0 table #1243: started
+2026/03/08-13:31:49.352 224a Level-0 table #1243: 935594 bytes OK
+2026/03/08-13:31:49.354 224a Delete type=0 #1239
+2026/03/08-13:37:34.548 224a Level-0 table #1245: started
+2026/03/08-13:37:34.559 224a Level-0 table #1245: 1048584 bytes OK
+2026/03/08-13:37:34.561 224a Delete type=0 #1242
+2026/03/08-13:37:37.298 224a Level-0 table #1247: started
+2026/03/08-13:37:37.310 224a Level-0 table #1247: 925831 bytes OK
+2026/03/08-13:37:37.312 224a Delete type=0 #1244
+2026/03/08-13:40:22.511 224a Compacting 3@0 + 1@1 files
+2026/03/08-13:40:22.523 224a Generated table #1248@0: 1488 keys, 73898 bytes
+2026/03/08-13:40:22.523 224a Compacted 3@0 + 1@1 files => 73898 bytes
+2026/03/08-13:40:22.524 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:40:22.525 224a Delete type=2 #1241
+2026/03/08-13:40:22.525 224a Delete type=2 #1245
+2026/03/08-13:40:22.525 224a Delete type=2 #1247
+2026/03/08-13:40:22.525 224a Delete type=2 #1243
+2026/03/08-13:40:42.276 228e Level-0 table #1250: started
+2026/03/08-13:40:42.289 228e Level-0 table #1250: 1056642 bytes OK
+2026/03/08-13:40:42.291 228e Delete type=0 #1246
+2026/03/08-13:40:45.684 228f Level-0 table #1252: started
+2026/03/08-13:40:45.696 228f Level-0 table #1252: 921765 bytes OK
+2026/03/08-13:40:45.698 228f Delete type=0 #1249
+2026/03/08-13:40:47.191 228e Compacting 2@0 + 1@1 files
+2026/03/08-13:40:47.202 228e Generated table #1253@0: 1896 keys, 119796 bytes
+2026/03/08-13:40:47.202 228e Compacted 2@0 + 1@1 files => 119796 bytes
+2026/03/08-13:40:47.203 228e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:40:47.203 228e Delete type=2 #1252
+2026/03/08-13:40:47.203 228e Delete type=2 #1248
+2026/03/08-13:40:47.203 228e Delete type=2 #1250
+2026/03/08-13:40:47.842 224a Level-0 table #1255: started
+2026/03/08-13:40:47.854 224a Level-0 table #1255: 927834 bytes OK
+2026/03/08-13:40:47.856 224a Delete type=0 #1251
+2026/03/08-13:40:51.498 224a Compacting 1@0 + 1@1 files
+2026/03/08-13:40:51.507 224a Generated table #1256@0: 2028 keys, 122330 bytes
+2026/03/08-13:40:51.507 224a Compacted 1@0 + 1@1 files => 122330 bytes
+2026/03/08-13:40:51.508 224a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/08-13:40:51.508 224a Delete type=2 #1253
+2026/03/08-13:40:51.508 224a Delete type=2 #1255
+2026/03/08-13:42:19.613 228e Compacting 1@1 + 1@2 files
+2026/03/08-13:42:19.624 228e Generated table #1257@1: 1058 keys, 711782 bytes
+2026/03/08-13:42:19.624 228e Compacted 1@1 + 1@2 files => 711782 bytes
+2026/03/08-13:42:19.627 228e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/08-13:42:19.627 228e Delete type=2 #1256
+2026/03/08-13:42:19.627 228e Delete type=2 #1233

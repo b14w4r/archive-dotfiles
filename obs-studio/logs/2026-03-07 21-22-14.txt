@@ -1,0 +1,276 @@
+21:22:14.861: Platform: Wayland
+21:22:14.861: CPU Name: AMD Ryzen 7 4800HS with Radeon Graphics
+21:22:14.861: CPU Speed: 4069.127MHz
+21:22:14.862: Physical Cores: 8, Logical Cores: 16
+21:22:14.862: Physical Memory: 15398MB Total, 735MB Free
+21:22:14.862: Kernel Version: Linux 6.19.6-arch1-1
+21:22:14.862: Distribution: "Arch Linux" Unknown
+21:22:14.862: Desktop Environment: Hyprland (Hyprland)
+21:22:14.862: Session Type: wayland
+21:22:14.863: Current Date/Time: 2026-03-07, 09:22:14 PM
+21:22:14.863: Browser Hardware Acceleration: true
+21:22:14.863: Qt Version: 6.10.2 (runtime), 6.10.1 (compiled)
+21:22:14.863: Portable mode: false
+21:22:14.931: OBS 32.0.4 (linux)
+21:22:14.931: ---------------------------------
+21:22:14.932: ---------------------------------
+21:22:14.932: audio settings reset:
+21:22:14.932: 	samples per sec: 48000
+21:22:14.932: 	speakers:        2
+21:22:14.932: 	max buffering:   960 milliseconds
+21:22:14.932: 	buffering type:  dynamically increasing
+21:22:14.934: ---------------------------------
+21:22:14.934: Initializing OpenGL...
+21:22:14.934: Using EGL/Wayland
+21:22:14.987: Initialized EGL 1.5
+21:22:15.005: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 6.19.6-arch1-1)
+21:22:15.005: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.0.1-arch1.1, shading language 4.60
+21:22:15.040: ---------------------------------
+21:22:15.040: video settings reset:
+21:22:15.040: 	base resolution:   1920x1080
+21:22:15.040: 	output resolution: 1280x720
+21:22:15.040: 	downscale filter:  Bicubic
+21:22:15.040: 	fps:               30/1
+21:22:15.040: 	format:            NV12
+21:22:15.040: 	YUV mode:          Rec. 709/Partial
+21:22:15.041: NV12 texture support enabled
+21:22:15.041: P010 texture support not available
+21:22:15.045: Audio monitoring device:
+21:22:15.045: 	name: Default
+21:22:15.045: 	id: default
+21:22:15.047: ---------------------------------
+21:22:15.049: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21:22:15.051: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+21:22:15.053: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:22:15.053: Failed to initialize module 'decklink.so'
+21:22:15.194: [pipewire] Available capture sources:
+21:22:15.194: [pipewire]     - Monitor source
+21:22:15.194: [pipewire]     - Window source
+21:22:15.202: v4l2loopback not installed, virtual camera not registered
+21:22:15.220: VAAPI: API version 1.22
+21:22:15.221: FFmpeg VAAPI H264 encoding supported
+21:22:15.225: FFmpeg VAAPI AV1 encoding not supported
+21:22:15.230: FFmpeg VAAPI HEVC encoding supported
+21:22:15.274: [NVENC] Test process failed: cuda_init_100
+21:22:15.274: NVENC not supported
+21:22:15.274: Failed to initialize module 'obs-nvenc.so'
+21:22:15.310: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+21:22:15.310: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.2
+21:22:15.310: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+21:22:15.318: [obs-websocket] [obs_module_load] Module loaded.
+21:22:15.324: ---------------------------------
+21:22:15.324:   Loaded Modules:
+21:22:15.324:     text-freetype2.so
+21:22:15.324:     rtmp-services.so
+21:22:15.324:     obs-x264.so
+21:22:15.324:     obs-websocket.so
+21:22:15.324:     obs-webrtc.so
+21:22:15.324:     obs-vst.so
+21:22:15.324:     obs-transitions.so
+21:22:15.324:     obs-qsv11.so
+21:22:15.324:     obs-outputs.so
+21:22:15.325:     obs-libfdk.so
+21:22:15.325:     obs-filters.so
+21:22:15.325:     obs-ffmpeg.so
+21:22:15.325:     linux-v4l2.so
+21:22:15.325:     linux-pulseaudio.so
+21:22:15.325:     linux-pipewire.so
+21:22:15.325:     linux-jack.so
+21:22:15.325:     linux-capture.so
+21:22:15.325:     linux-alsa.so
+21:22:15.325:     image-source.so
+21:22:15.325:     frontend-tools.so
+21:22:15.325:     decklink-output-ui.so
+21:22:15.325:     decklink-captions.so
+21:22:15.325: ---------------------------------
+21:22:15.325: ---------------------------------
+21:22:15.325: Available Encoders:
+21:22:15.325:   Video Encoders:
+21:22:15.325: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:22:15.325: 	- ffmpeg_aom_av1 (AOM AV1)
+21:22:15.325: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+21:22:15.325: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+21:22:15.325: 	- obs_x264 (x264)
+21:22:15.325:   Audio Encoders:
+21:22:15.325: 	- ffmpeg_aac (FFmpeg AAC)
+21:22:15.325: 	- ffmpeg_opus (FFmpeg Opus)
+21:22:15.325: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+21:22:15.325: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+21:22:15.325: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+21:22:15.325: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+21:22:15.325: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+21:22:15.325: 	- libfdk_aac (libfdk AAC)
+21:22:15.325: ==== Startup complete ===============================================
+21:22:15.361: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+21:22:15.361: All scene data cleared
+21:22:15.361: ------------------------------------------------
+21:22:15.368: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+21:22:15.368: Deduplication logic is being applied to all monitored sources.
+21:22:15.368: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.0) 15.0.0'
+21:22:15.368: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+21:22:15.369: pulse-input: Started recording from 'bluez_output.F0:E7:52:09:8A:C8.monitor' (default)
+21:22:15.369: [Loaded global audio device]: 'Desktop Audio'
+21:22:15.369: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.0) 15.0.0'
+21:22:15.369: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+21:22:15.369: pulse-input: Started recording from 'VirtualMic' (default)
+21:22:15.369: [Loaded global audio device]: 'Mic/Aux'
+21:22:15.370: v4l2-input: Start capture from /dev/video0
+21:22:15.394: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+21:22:15.394: Deduplication logic is being applied to all monitored sources.
+21:22:15.465: v4l2-input: Input: 0
+21:22:15.468: v4l2-input: Resolution: 1280x720
+21:22:15.468: v4l2-input: Pixelformat: YV12
+21:22:15.468: v4l2-input: Linesize: 1280 Bytes
+21:22:15.471: v4l2-input: Framerate: 30.00 fps
+21:22:15.472: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+21:22:15.473: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.0) 15.0.0'
+21:22:15.473: pulse-input: An error occurred while getting the source info!
+21:22:15.478: pulse-am: Server name: 'PulseAudio (on PipeWire 1.6.0) 15.0.0'
+21:22:15.478: pulse-am: Audio format: float32le, 48000 Hz, 2 channels
+21:22:15.479: pulse-am: Started Monitoring in 'bluez_output.F0:E7:52:09:8A:C8'
+21:22:15.479: PipeWire initialized
+21:22:15.479: v4l2-input: Start capture from /dev/video4
+21:22:15.479: v4l2-input: Unable to open device
+21:22:15.479: v4l2-input: Initialization failed, errno: No such file or directory
+21:22:15.480: Switched to scene 'xbox'
+21:22:15.481: ------------------------------------------------
+21:22:15.481: Loaded scenes:
+21:22:15.481: - scene 'xbox':
+21:22:15.481:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+21:22:15.481:         - monitoring: monitor and output
+21:22:15.481:         - filter: 'Compressor' (compressor_filter)
+21:22:15.481:         - filter: '3-Band Equalizer' (basic_eq_filter)
+21:22:15.481:         - filter: 'Gain' (gain_filter)
+21:22:15.481:         - filter: 'Upward Compressor' (upward_compressor_filter)
+21:22:15.481:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+21:22:15.481:     - source: 'Video Capture Device (V4L2) 2' (v4l2_input)
+21:22:15.481: - scene 'Scene 3':
+21:22:15.481:     - source: 'Video Capture Device (V4L2) 2' (v4l2_input)
+21:22:15.481: - scene 'Scene 2':
+21:22:15.481:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+21:22:15.481:     - source: 'Video Capture Device (V4L2) 2' (v4l2_input)
+21:22:15.481: ------------------------------------------------
+21:22:15.532: [pipewire] Screencast session created
+21:22:15.935: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+21:22:15.935: 
+21:22:17.663: [pipewire] Asking for monitor and window
+21:22:17.665: [pipewire] source selected, setting up screencast
+21:22:17.671: [pipewire] Server version: 1.6.0
+21:22:17.672: [pipewire] Library version: 1.6.0
+21:22:17.672: [pipewire] Header version: 1.4.9
+21:22:17.672: [pipewire] Created stream 0x56417a2c18e0
+21:22:17.672: [pipewire] Stream 0x56417a2c18e0 state: "connecting" (error: none)
+21:22:17.672: [pipewire] Playing stream 0x56417a2c18e0
+21:22:17.686: [pipewire] Stream 0x56417a2c18e0 state: "paused" (error: none)
+21:22:17.698: [pipewire] Negotiated format:
+21:22:17.698: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.698: [pipewire]     Modifier: 0x0
+21:22:17.698: [pipewire]     Size: 1920x1080
+21:22:17.698: [pipewire]     Framerate: 0/1
+21:22:17.699: [pipewire] Negotiated format:
+21:22:17.699: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.699: [pipewire]     Modifier: 0x20000044051ba01
+21:22:17.699: [pipewire]     Size: 1920x1080
+21:22:17.699: [pipewire]     Framerate: 0/1
+21:22:17.701: [pipewire] Stream 0x56417a2c18e0 state: "streaming" (error: none)
+21:22:17.715: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+21:22:17.715: [pipewire] Renegotiating stream
+21:22:17.716: [pipewire] Stream 0x56417a2c18e0 state: "paused" (error: none)
+21:22:17.716: [pipewire] Negotiated format:
+21:22:17.716: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.716: [pipewire]     Modifier: 0x20000044051ba01
+21:22:17.716: [pipewire]     Size: 1920x1080
+21:22:17.716: [pipewire]     Framerate: 0/1
+21:22:17.718: [pipewire] Negotiated format:
+21:22:17.718: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.718: [pipewire]     Modifier: 0x20000044051b901
+21:22:17.718: [pipewire]     Size: 1920x1080
+21:22:17.718: [pipewire]     Framerate: 0/1
+21:22:17.722: [pipewire] Stream 0x56417a2c18e0 state: "streaming" (error: none)
+21:22:17.729: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+21:22:17.729: [pipewire] Renegotiating stream
+21:22:17.729: [pipewire] Stream 0x56417a2c18e0 state: "paused" (error: none)
+21:22:17.729: [pipewire] Negotiated format:
+21:22:17.729: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.729: [pipewire]     Modifier: 0x20000044051b901
+21:22:17.729: [pipewire]     Size: 1920x1080
+21:22:17.729: [pipewire]     Framerate: 0/1
+21:22:17.730: [pipewire] Negotiated format:
+21:22:17.731: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.731: [pipewire]     Modifier: 0x200000440517901
+21:22:17.731: [pipewire]     Size: 1920x1080
+21:22:17.731: [pipewire]     Framerate: 0/1
+21:22:17.732: [pipewire] Stream 0x56417a2c18e0 state: "streaming" (error: none)
+21:22:17.744: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+21:22:17.744: [pipewire] Renegotiating stream
+21:22:17.744: [pipewire] Stream 0x56417a2c18e0 state: "paused" (error: none)
+21:22:17.746: [pipewire] Negotiated format:
+21:22:17.746: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.746: [pipewire]     Modifier: 0x200000440517901
+21:22:17.746: [pipewire]     Size: 1920x1080
+21:22:17.746: [pipewire]     Framerate: 0/1
+21:22:17.747: [pipewire] Negotiated format:
+21:22:17.747: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.747: [pipewire]     Modifier: 0x20000044051b601
+21:22:17.747: [pipewire]     Size: 1920x1080
+21:22:17.747: [pipewire]     Framerate: 0/1
+21:22:17.749: [pipewire] Stream 0x56417a2c18e0 state: "streaming" (error: none)
+21:22:17.759: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+21:22:17.759: [pipewire] Renegotiating stream
+21:22:17.759: [pipewire] Stream 0x56417a2c18e0 state: "paused" (error: none)
+21:22:17.759: [pipewire] Negotiated format:
+21:22:17.759: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.759: [pipewire]     Modifier: 0x20000044051b601
+21:22:17.759: [pipewire]     Size: 1920x1080
+21:22:17.759: [pipewire]     Framerate: 0/1
+21:22:17.761: [pipewire] Negotiated format:
+21:22:17.761: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+21:22:17.761: [pipewire]     Modifier: 0x200000000401a01
+21:22:17.761: [pipewire]     Size: 1920x1080
+21:22:17.761: [pipewire]     Framerate: 0/1
+21:22:17.762: [pipewire] Stream 0x56417a2c18e0 state: "streaming" (error: none)
+21:22:22.217: User switched to scene 'Scene 3'
+21:22:29.342: User switched to scene 'Scene 2'
+21:22:31.213: User switched to scene 'Scene 3'
+21:22:31.245: [pipewire] Stream 0x56417a2c18e0 state: "paused" (error: none)
+21:22:34.426: v4l2-input: /dev/video3 seems to not support video capture
+21:22:34.426: v4l2-input: /dev/video1 seems to not support video capture
+21:22:34.615: v4l2-input: Found device 'XWF-1080P: XWF-1080P' at /dev/video2
+21:22:34.616: v4l2-input: Found device 'USB2.0 HD UVC WebCam: USB2.0 HD' at /dev/video0
+21:22:37.211: v4l2-input: Start capture from /dev/video2
+21:22:37.368: v4l2-input: Found input 'Camera 1' (Index 0)
+21:22:37.369: v4l2-input: Input: 0
+21:22:37.432: v4l2-input: Resolution: 1920x1080
+21:22:37.432: v4l2-input: Pixelformat: MJPG
+21:22:37.432: v4l2-input: Linesize: 0 Bytes
+21:22:37.432: v4l2-input: Framerate: 30.00 fps
+21:22:37.434: v4l2-controls: setting default for Power Line Frequency to 1
+21:22:37.435: v4l2-input: /dev/video2: select timeout set to 166666 (5x frame periods)
+21:22:37.454: v4l2-controls: setting default for Auto Exposure to 3
+21:22:37.455: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:22:37.455: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:22:37.455: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:22:37.455: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:22:37.455: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:22:37.455: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:22:37.455: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:22:37.621: v4l2-input: /dev/video2: select timed out
+21:22:37.621: v4l2-input: /dev/video2: failed to log status
+21:24:44.480: ==== Shutting down ==================================================
+21:24:44.483: pulse-input: Stopped recording from 'bluez_output.F0:E7:52:09:8A:C8.monitor'
+21:24:44.483: pulse-input: Got 5963 packets with 7155600 frames
+21:24:44.483: Deduplication logic stopped.
+21:24:44.484: pulse-input: Stopped recording from 'VirtualMic'
+21:24:44.484: pulse-input: Got 5963 packets with 7155600 frames
+21:24:44.484: pulse-am: Stopped Monitoring in 'bluez_output.F0:E7:52:09:8A:C8'
+21:24:44.484: pulse-am: Got 0 packets with 0 frames
+21:24:44.488: v4l2-input: /dev/video0: Stopped capture after 1134 frames
+21:24:44.513: [pipewire] Stream 0x56417a2c18e0 state: "unconnected" (error: none)
+21:24:44.534: v4l2-input: /dev/video2: Stopped capture after 2111 frames
+21:24:44.563: All scene data cleared
+21:24:44.563: ------------------------------------------------
+21:24:44.651: [obs-websocket] [obs_module_unload] Shutting down...
+21:24:44.656: Tried to call obs_frontend_remove_event_callback with no callbacks!
+21:24:44.656: [obs-websocket] [obs_module_unload] Finished shutting down.
+21:24:44.664: [Scripting] Total detached callbacks: 0
+21:24:44.664: Freeing OBS context data

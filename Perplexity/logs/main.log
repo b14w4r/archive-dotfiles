@@ -642,3 +642,226 @@
 [2026-03-08 13:04:28.065] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
 [2026-03-08 13:04:29.499] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/os-rfOIiMcHQM.d8m.2lM.lnA)
 [2026-03-08 13:05:40.726] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-u-menia-golyi-arch-hypr-moRpLRt7R.G21Mkv8k9tbQ)
+[2026-03-10 10:17:09.320] [info]  [main]: Electron ready
+[2026-03-10 10:17:09.496] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-10 10:17:09.509] [info]  [main]: App ready
+[2026-03-10 10:17:11.042] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 10:19:21.108] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-10 10:19:22.092] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=i8XUyPCGnvS9VcBrWuPbe7vDPTDatSHfHOAVW2N42Gg-1773127161-1.0.1.1-S2N04kK8PFGWnwOdS.nDmGRxfmb56lf8Z0WLzxJ9S9Q)
+[2026-03-10 10:19:23.879] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 10:21:39.863] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-10 10:21:40.179] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=x2CqUjPsj8KzS7P7g0.2dlt8TdLhU.Y2b6r0cASV94Y-1773127299-1.0.1.1-q.oOPVQRYlef4NCdnQ3te7wd5ON7H5AV4SAjDo7lImc)
+[2026-03-10 10:21:40.368] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 10:23:53.709] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-10 10:23:54.042] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=y_H.ffsCpx5URfJEVw6wzxsO_LZ8K.jaFPLOzc63nFg-1773127433-1.0.1.1-WwWnZeTOWGqCoYzNcq5A2NOUZ41Mo0slbEWQsdfrNW0)
+[2026-03-10 10:23:54.215] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 10:26:13.440] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-10 10:26:13.717] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=0Jw.w2c8fAt07k2ochole2Ug5wnhgWYxWVOLvzU23L8-1773127573-1.0.1.1-NXRCEHN_3tZHIMV24QKkUdmk9A6GZ5BFAMfGDZfAO7c)
+[2026-03-10 10:26:13.907] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 10:27:45.972] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_tk=0Jw.w2c8fAt07k2ochole2Ug5wnhgWYxWVOLvzU23L8-1773127573-1.0.1.1-NXRCEHN_3tZHIMV24QKkUdmk9A6GZ5BFAMfGDZfAO7c)
+[2026-03-10 10:27:45.974] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-10 10:27:48.361] [info]  [main]: Equip new web contents for window created via API
+[2026-03-10 10:27:48.662] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-10 10:27:48.663] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-10 10:27:50.000] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-10 10:27:54.760] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-10 10:27:58.000] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-10 10:28:05.460] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/che-skazhesh-po-etomu-planu-ob-mhkO_9fKS3qXpJafH5jvWw)
+[2026-03-10 11:11:57.475] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-10 11:12:02.385] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-10 11:13:01.224] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/etap-1-pasporta-ispdn-chto-del-tEDejraISb23aqqI.68qSA)
+[2026-03-10 11:13:02.920] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/etap-1-pasporta-ispdn-chto-del-tEDejraISb23aqqI.68qSA)
+[2026-03-10 13:01:10.560] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 13:01:53.830] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/a6ddc3a0-eaa3-4132-b0ac-f70b2dc159a2)
+[2026-03-10 13:01:54.919] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-ia-polzuius-rasshirenie-6ANWQeSLReGQ3OWiezb.FQ)
+[2026-03-10 13:04:03.831] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 13:04:03.857] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-10 13:04:07.266] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/etap-1-pasporta-ispdn-chto-del-tEDejraISb23aqqI.68qSA)
+[2026-03-10 13:08:42.894] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-10 13:08:45.594] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/os-rfOIiMcHQM.d8m.2lM.lnA)
+[2026-03-10 13:12:04.292] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/privet-khochu-sinkhronizatsiiu-6Sg23EDBScuOiDiiy5r0Kg)
+[2026-03-10 14:22:46.440] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-10 14:22:48.838] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-10 14:23:36.570] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/koroche-v-shablonakh-normativn-Jrur.uKFS0OMNEPbPfDn3g)
+[2026-03-10 15:16:20.601] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/koroche-v-shablonakh-normativn-Jrur.uKFS0OMNEPbPfDn3g?preview=1)
+[2026-03-10 15:16:27.261] [info]  [main]: App opened new window  
+- {
+  "url": "https://www.perplexity.ai/apps/438f905f-f4fa-4c13-adc5-2a25f63caa4a?asset=e95e0c48-f272-4f44-a2a4-3c6bd7c86e58-doc"
+}
+[2026-03-10 15:16:27.272] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": false,
+  "newUrl": "https://www.perplexity.ai/apps/438f905f-f4fa-4c13-adc5-2a25f63caa4a?asset=e95e0c48-f272-4f44-a2a4-3c6bd7c86e58-doc"
+}
+[2026-03-10 15:16:28.162] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-10 16:04:28.180] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/koroche-v-shablonakh-normativn-Jrur.uKFS0OMNEPbPfDn3g)
+[2026-03-10 16:04:31.406] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/koroche-v-shablonakh-normativn-Jrur.uKFS0OMNEPbPfDn3g?preview=1)
+[2026-03-10 16:04:36.489] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": false,
+  "isMainWindow": true,
+  "newUrl": "https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/e9de484b145f74c39d1c70c9b18a82b7/58329bd9-2448-4956-8446-a089dc42d28e/canvas-docs/document.docx?response-content-disposition=attachment%3B%20filename%3Dfile.docx%3B%20filename%2A%3DUTF-8%27%27%25D0%259C%25D0%25BE%25D0%25B4%25D0%25B5%25D0%25BB%25D1%258C%2520%25D0%25A3%25D0%25B3%25D1%2580%25D0%25BE%25D0%25B7%2520%25D0%259F%25D0%2594%25D0%25BD.docx&AWSAccessKeyId=ASIA2F3EMEYE3FMTYPGL&Signature=AJT2KrmuTRWUtAKJ%2FI%2FBuc2pZjg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEH0aCXVzLWVhc3QtMSJGMEQCIHnVJ3lebVr%2FupYNr2F2fAanLnI%2B7njZRR4%2BBkNOL05%2FAiA3oiEnfEaa84J9xKQ0LX3r0GMsRwhXr5w3adzCYqPN3irzBAhGEAEaDDY5OTc1MzMwOTcwNSIMiCB3s4v9LxEIEPWAKtAE3n1PCQE4SgyY7YT4i%2FAvXj6OvmRFe1ALnvHwsNPlYlmsA1ER71wlitbRjV6tFH2kPj%2BgFRiirBy%2FHjDYboRRFUcH6h%2FQgraorpflYsKIGyW3XGpAnbwvFUvghUsrTnnH3hgDOMg9%2FTMM8c92%2FBnSnrVjEeUFm5SaHvpq%2B9unXmJv%2Fzt63rkwYIVl7JPdKd%2FdxvCp4ps%2FpLF%2BCK5pzx2DDXjj8bb07PbzBvVbGmxMZk7%2FxeIguHNnT%2B0qgxPsH8S10HfudNr8CyPnDx0vm6WOryu%2B38sRnMUCCrqhHp0nnWwEUdYyvSOw8qzEYg6mH7Vt%2BkkODYKuWnmgDbERRUwKkfJIYPxVUfC1HZMZ1qPhd5wAbuwVf%2FjYKDJ0KW%2FCY%2BkNSX6MXc7KOkyUjZtXGiLv4DIvAu93genMk5MSDzx7QbPzizM3ZK4UQm61lXKxeCYNvR2NlX5gVSmSL1ZIlogDmKlW%2BTe9vgDajZGf5KYPHYymCsxWL4wAVF9x3hpVVl1ETwc%2BWc3%2B1xjTp9x7QHaPQGtNFrHWQGoCwkofvxGyhcB7LEkw5LW9YMM1E6qaEinBMAiuukbo56CE57VUXCRVDARDS%2FW9%2B4hKE1zHmUP2%2BX52tL%2F2qYVnwkTBOq7Kiutnflo8DtIU79UuYXaYMCAp6IYe65DKACJN%2F8i4pxvHr50FXEi%2F011y7KzVwmDOuctte2ANAp8gAtc4q0C%2FNh%2BSyXCBHFFLWr1%2FB8VkxCqGKKXw4Bm6uRsqffKbyrk7vzSPdDFjcbSfaMoTQIBHBcsXGTCOn8DNBjqZAT1ZIyYeCM2CRFklmk7M1D4IfUT29HQm2rKe8B%2Fzy3mFCOAxNYloByYSyEqLza0v26QKLgAmJjz3W8lpE6NWyUh8os1PcSItZXJTLY33jyoaj%2FVpwRVIxDoBtoUjp%2FyEW2PMHQDEb%2F7q8KpHf0KwGgXGe7Dt53Y3IX4bp1wq%2B5drzpz0cxf14FvbbazhQkk6hrAKqSM18XQDBA%3D%3D&Expires=1773148476"
+}
+[2026-03-10 16:44:27.316] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/koroche-v-shablonakh-normativn-Jrur.uKFS0OMNEPbPfDn3g)
+[2026-03-10 16:44:34.630] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2026-03-10 16:44:50.816] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/che-skazhesh-po-etomu-planu-ob-mhkO_9fKS3qXpJafH5jvWw#346e0d1a-dd65-4d71-b658-61aeafb226e3)
+[2026-03-10 18:26:41.260] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/che-skazhesh-po-etomu-planu-ob-mhkO_9fKS3qXpJafH5jvWw?sm=d)
+[2026-03-11 13:54:03.264] [info]  [main]: Electron ready
+[2026-03-11 13:54:03.297] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-11 13:54:03.302] [info]  [main]: App ready
+[2026-03-11 13:56:12.485] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-11 13:56:12.787] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=BZPrmeTfavB_no.y5wbzbtZ17F51zcWa3bO4wlQZA_o-1773226572-1.0.1.1-xXSjzeDa9EhZRoyp_g5sz4fI6LYNSbt7uq_Id57zYAE)
+[2026-03-11 13:56:17.959] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-11 13:58:36.794] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-11 13:58:37.482] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=3iCUwyS6V_iTo5CVMnaHearBgF1sDD5931mGr0lcC4Y-1773226716-1.0.1.1-UgZCJipCl1IAQXHpUFX0eh7T7sBE0xC.7OACugtUhZg)
+[2026-03-11 13:58:39.754] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-11 14:01:13.825] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-11 14:25:39.462] [info]  [main]: Equip new web contents for window created via API
+[2026-03-11 14:25:39.595] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-11 14:25:39.595] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-11 14:25:40.834] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 10:31:23.501] [info]  [main]: Electron ready
+[2026-03-12 10:31:23.587] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 10:31:23.602] [info]  [main]: App ready
+[2026-03-12 10:31:38.168] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 10:31:38.299] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 10:31:38.300] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 10:32:47.929] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "/usr/lib/perplexity"
+}
+[2026-03-12 10:32:47.929] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "/usr/lib/perplexity",
+  "isValidDeeplink": false
+}
+[2026-03-12 10:33:20.565] [info]  [main]: Electron ready
+[2026-03-12 10:33:20.595] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 10:33:20.599] [info]  [main]: App ready
+[2026-03-12 10:33:21.221] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 10:33:21.353] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 10:33:21.353] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 10:33:36.923] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2026-03-12 10:33:57.478] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 10:36:56.398] [info]  [main]: Electron ready
+[2026-03-12 10:36:56.431] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 10:36:56.436] [info]  [main]: App ready
+[2026-03-12 10:36:57.162] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 10:36:57.315] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 10:36:57.316] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 10:37:08.815] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 10:37:11.067] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 10:37:15.212] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 10:42:39.843] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-12 10:43:31.412] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/che-skazhesh-po-etomu-planu-ob-mhkO_9fKS3qXpJafH5jvWw)
+[2026-03-12 11:06:36.454] [info]  [main]: Electron ready
+[2026-03-12 11:06:36.488] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 11:06:36.493] [info]  [main]: App ready
+[2026-03-12 11:06:37.197] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 11:06:37.344] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 11:06:37.344] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 11:07:04.799] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 11:08:05.209] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/spaces"
+}
+[2026-03-12 11:18:00.171] [info]  [main]: Render process has crashed  
+- {
+  "exitCode": 0,
+  "reason": "clean-exit",
+  "id": "aBgfq6aHUDnhpUZYMMp1Q",
+  "url": "https://www.perplexity.ai/spaces"
+}
+[2026-03-12 12:18:14.694] [info]  [main]: Electron ready
+[2026-03-12 12:18:14.779] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 12:18:14.796] [info]  [main]: App ready
+[2026-03-12 12:19:37.424] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 12:19:37.571] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 12:19:37.572] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 12:19:39.329] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 12:20:26.441] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/koroche-u-menia-kakaia-to-kher-CFvXK1H4QmyBhaKDtR6UfA)
+[2026-03-12 12:33:56.899] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 12:34:00.316] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-12 12:34:32.687] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/che-skazhesh-po-etomu-planu-ob-mhkO_9fKS3qXpJafH5jvWw)
+[2026-03-12 12:38:07.469] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-12 12:38:25.184] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/f7a93a05-f5a4-466f-a2bf-362d5cd79301)
+[2026-03-12 12:38:25.588] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/kak-v-vime-ubrat-perenos-v-kon-fmBQQUmWQTyZmkLX8Fco9g)
+[2026-03-12 12:43:42.878] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 12:43:46.862] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-12 12:46:27.430] [info]  [main]: Electron ready
+[2026-03-12 12:46:27.461] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 12:46:27.466] [info]  [main]: App ready
+[2026-03-12 12:46:28.166] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 12:46:28.334] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 12:46:28.334] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 12:46:29.099] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 12:46:34.436] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 12:46:35.872] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-12 12:48:48.806] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2026-03-12 12:50:44.423] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 12:50:45.389] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-12 12:55:37.674] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-kakaia-zadumka-nado-soz-KvOabOc6QHKGd9Hzbpv62A)
+[2026-03-12 14:45:13.626] [info]  [main]: App triggered file download
+[2026-03-12 14:45:18.693] [info]  [main]: App finished file download  
+- {
+  "fileName": "download.csv",
+  "path": "/home/herbobra/Downloads/download.csv",
+  "fileSize": 2477,
+  "mimeType": "text/csv",
+  "url": "blob:https://www.perplexity.ai/12920614-7d11-42d6-9bcb-08b7104db184"
+}
+[2026-03-12 15:46:29.928] [info]  [main]: Electron ready
+[2026-03-12 15:46:29.959] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-12 15:46:29.964] [info]  [main]: App ready
+[2026-03-12 15:46:31.197] [info]  [main]: Equip new web contents for window created via API
+[2026-03-12 15:46:31.330] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 15:46:31.330] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-12 15:46:32.287] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-12 15:46:37.544] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-kakaia-zadumka-nado-soz-KvOabOc6QHKGd9Hzbpv62A)
+[2026-03-12 16:01:38.551] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-12 16:01:40.331] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-aoYp.PbTRv.LFDorwmMK4w)
+[2026-03-12 16:01:43.385] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-kakaia-zadumka-nado-soz-KvOabOc6QHKGd9Hzbpv62A)

@@ -53,7 +53,7 @@
     "ambient_occlusion": 1
   },
   "cfAudioSettings": {
-    "master_volume": 0.0,
+    "master_volume": 0.112903424,
     "music": 0.274193734,
     "game_sfx": 1.0,
     "ambience": 1.0,
@@ -131,7 +131,7 @@
       "Vlad": 0,
       "Dicehead": 4,
       "SirChadwell": 2,
-      "Roberto": 0
+      "Roberto": 2
     },
     "characterHats": {
       "Fox": "None",
@@ -154,9 +154,9 @@
       "Vlad": "Tophat",
       "Dicehead": "Tophat",
       "SirChadwell": "Kevin",
-      "Roberto": "None"
+      "Roberto": "Kevin"
     },
-    "selectedCharacter": "Bush",
+    "selectedCharacter": "Bandit",
     "hasShownUnlocks": true,
     "hasShownQuests": true,
     "hasShownShop": true,

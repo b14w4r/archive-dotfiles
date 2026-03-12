@@ -1,3 +1,15 @@
-2026/03/08-01:00:09.864 493a Reusing MANIFEST /home/herbobra/.config/Perplexity/Session Storage/MANIFEST-000001
-2026/03/08-01:00:09.866 493a Recovering log #50
-2026/03/08-01:00:09.867 493a Reusing old log /home/herbobra/.config/Perplexity/Session Storage/000050.log 
+2026/03/12-12:46:27.569 2448 Reusing MANIFEST /home/herbobra/.config/Perplexity/Session Storage/MANIFEST-000001
+2026/03/12-12:46:27.570 2448 Recovering log #69
+2026/03/12-12:46:27.570 2448 Reusing old log /home/herbobra/.config/Perplexity/Session Storage/000069.log 
+2026/03/12-13:00:37.029 2447 Level-0 table #73: started
+2026/03/12-13:00:37.036 2447 Level-0 table #73: 12038 bytes OK
+2026/03/12-13:00:37.039 2447 Delete type=0 #69
+2026/03/12-13:00:37.039 2447 Compacting 4@0 + 1@1 files
+2026/03/12-13:00:37.041 2447 Generated table #74@0: 184 keys, 5454 bytes
+2026/03/12-13:00:37.041 2447 Compacted 4@0 + 1@1 files => 5454 bytes
+2026/03/12-13:00:37.042 2447 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/12-13:00:37.043 2447 Delete type=2 #65
+2026/03/12-13:00:37.043 2447 Delete type=2 #67
+2026/03/12-13:00:37.043 2447 Delete type=2 #73
+2026/03/12-13:00:37.043 2447 Delete type=2 #63
+2026/03/12-13:00:37.043 2447 Delete type=2 #70

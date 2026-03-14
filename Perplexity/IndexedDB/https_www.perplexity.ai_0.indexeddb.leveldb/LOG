@@ -1,3 +1,19 @@
-2026/03/12-15:46:30.605 9669 Reusing MANIFEST /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/12-15:46:30.606 9669 Recovering log #1873
-2026/03/12-15:46:30.606 9669 Reusing old log /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/001873.log 
+2026/03/15-00:59:22.367 ea3 Reusing MANIFEST /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/15-00:59:22.369 ea3 Recovering log #2230
+2026/03/15-00:59:22.370 ea3 Reusing old log /home/herbobra/.config/Perplexity/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/002230.log 
+2026/03/15-00:59:32.600 ea4 Compacting 2@0 + 1@1 files
+2026/03/15-00:59:32.610 ea4 Generated table #2233@0: 1554 keys, 207370 bytes
+2026/03/15-00:59:32.610 ea4 Compacted 2@0 + 1@1 files => 207370 bytes
+2026/03/15-00:59:32.611 ea4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/15-00:59:32.611 ea4 Delete type=2 #2231
+2026/03/15-00:59:32.611 ea4 Delete type=2 #2229
+2026/03/15-00:59:32.611 ea4 Delete type=2 #2227
+2026/03/15-01:01:01.241 ea4 Level-0 table #2235: started
+2026/03/15-01:01:01.256 ea4 Level-0 table #2235: 2089219 bytes OK
+2026/03/15-01:01:01.258 ea4 Delete type=0 #2230
+2026/03/15-01:04:34.552 ea3 Compacting 1@0 + 1@1 files
+2026/03/15-01:04:34.565 ea3 Generated table #2236@0: 5187 keys, 580201 bytes
+2026/03/15-01:04:34.565 ea3 Compacted 1@0 + 1@1 files => 580201 bytes
+2026/03/15-01:04:34.567 ea3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/15-01:04:34.567 ea3 Delete type=2 #2233
+2026/03/15-01:04:34.567 ea3 Delete type=2 #2235

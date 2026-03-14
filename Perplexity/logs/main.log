@@ -867,3 +867,156 @@
 [2026-03-12 16:01:43.385] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-kakaia-zadumka-nado-soz-KvOabOc6QHKGd9Hzbpv62A)
 [2026-03-12 16:08:57.009] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
 [2026-03-12 16:09:04.478] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/privet-khochu-sinkhronizatsiiu-6Sg23EDBScuOiDiiy5r0Kg)
+[2026-03-12 17:52:25.580] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/smotri-kakaia-zadumka-nado-soz-KvOabOc6QHKGd9Hzbpv62A)
+[2026-03-13 12:43:47.956] [info]  [main]: Electron ready
+[2026-03-13 12:43:47.989] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-13 12:43:47.993] [info]  [main]: App ready
+[2026-03-13 12:43:49.224] [info]  [main]: Equip new web contents for window created via API
+[2026-03-13 12:43:49.354] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-13 12:43:49.355] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-13 12:43:50.098] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-13 13:15:27.408] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/badcf102-8bc2-4038-94c8-0dd181059a0f)
+[2026-03-13 13:15:27.772] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/v-obsidiane-ssylki-snizu-poiav-OwHjb_dgR7OQtYF8DmhhlQ)
+[2026-03-13 14:14:13.413] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-13 14:14:13.578] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_rt_tk=_l8I2H7eeuEA1WvLRXbv50qEwvzmos1M6EgS1Bcm6Wk-1773400453-1.0.1.1-lQEcqf61NPu5sDFAnatZ5wWAQlB9uo6PJqnp4AdsNL8)
+[2026-03-13 14:14:13.697] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-13 14:14:18.106] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?__cf_chl_tk=_l8I2H7eeuEA1WvLRXbv50qEwvzmos1M6EgS1Bcm6Wk-1773400453-1.0.1.1-lQEcqf61NPu5sDFAnatZ5wWAQlB9uo6PJqnp4AdsNL8)
+[2026-03-13 14:14:18.109] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2026-03-13 14:14:18.742] [info]  [main]: Equip new web contents for window created via API
+[2026-03-13 14:14:18.891] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-13 14:14:18.892] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-13 14:14:19.913] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-13 14:14:33.208] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/auth/verify-request?email=spiritedbeaver%40yandex.ru&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton"
+}
+[2026-03-13 14:14:47.853] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/callback/email?callbackUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton&email=spiritedbeaver%40yandex.ru&email-login-method=web-otp&token=799393"
+}
+[2026-03-13 14:14:48.031] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/?login-source=signupButton"
+}
+[2026-03-13 14:14:48.725] [info]  [main]: Equip new web contents for window created via API
+[2026-03-13 14:14:48.831] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-13 14:14:48.831] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-13 14:14:49.479] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-13 14:16:30.508] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/bc197231-9bb1-4626-ba59-32ccb95eccce)
+[2026-03-13 14:16:31.142] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/privet-menia-vania-zovut-pdPBej3hTWyU1RIreFT1hw)
+[2026-03-13 14:16:58.708] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/usage)
+[2026-03-13 14:17:29.033] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/assistant)
+[2026-03-13 14:17:32.252] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/personalize)
+[2026-03-13 14:19:11.785] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2026-03-13 14:19:38.363] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2026-03-13 14:19:51.821] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-13 14:19:55.340] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-13 14:19:57.725] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/novyi-space-zqdyVrzDTJeNN5MZLyRsug)
+[2026-03-13 14:20:27.753] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-13 14:20:28.618] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/novyi-space-zqdyVrzDTJeNN5MZLyRsug)
+[2026-03-13 14:20:30.523] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-13 14:20:33.923] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/novyi-space-hDAPz584TU.kzFZbCDia6g)
+[2026-03-13 14:21:17.147] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-13 14:21:18.485] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-ib-zqdyVrzDTJeNN5MZLyRsug)
+[2026-03-13 14:27:18.002] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-13 14:27:35.027] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/81f8ab43-4498-4e51-b741-6b0af2a9909a)
+[2026-03-13 14:27:35.435] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/kak-obratnye-ssylki-otkliuchit-fKA_sIx_QdWsW0v17WfM8w)
+[2026-03-13 17:06:49.729] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2026-03-13 17:07:18.281] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/4277d2ce-7edc-4e81-a733-69e10381b169)
+[2026-03-13 17:07:18.654] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/slushai-a-kak-rabotaet-papka-k-hJWCN3F0R_6rJXERID3J6w)
+[2026-03-13 18:12:07.700] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-13 18:12:09.916] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/eb-ib-zqdyVrzDTJeNN5MZLyRsug)
+[2026-03-13 18:14:26.235] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/znachit-smotri-vot-spisok-zako-zfCuQNVoSTiHbmqFHiWvSg)
+[2026-03-14 16:12:02.723] [info]  [main]: Electron ready
+[2026-03-14 16:12:02.804] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-14 16:12:02.819] [info]  [main]: App ready
+[2026-03-14 16:12:03.748] [info]  [main]: Equip new web contents for window created via API
+[2026-03-14 16:12:03.885] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-14 16:12:03.886] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-14 16:12:04.475] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-14 16:12:27.992] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-14 16:12:30.498] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/os-hDAPz584TU.kzFZbCDia6g)
+[2026-03-14 16:12:42.462] [info]  [main]: App opened new window  
+- {
+  "url": "https://github.com/login/oauth/authorize?client_id=Ov23lisFSzTZajRDJDwO&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Frest%2Fconnections%2Foauth_callback&response_type=code&state=eyJ1c2VyX2lkIjoyNjQ5ODEyNTcsIm9yZ2FuaXphdGlvbl91dWlkIjpudWxsLCJ2ZXJpZmllciI6InpBOFNqcGdXVDdGS3FmMndfdTlHMHlQSXJkdV8yb3NTT2xNd0xvUnRqT1B1eXVMSUVraG1tN0JBNFRjNWpBMzVJRTFLOEpzRHdRNmY1dzdBa0RYcDUwakpoeGw2V01yN3pfRmNhSGRBMGp5T2dHNWFwNEFfRG5xcE9ReFRHLWh1IiwicmVmZXJyZXIiOiJhc2siLCJyZWZlcnJlcl9pZCI6bnVsbCwiY29ubmVjdGlvbl90eXBlIjoiR0lUSFVCX01DUF9ESVJFQ1QiLCJhdXRvX2Nsb3NlIjp0cnVlfQ%3D%3D&actor=user&code_challenge=zAJ5AflxEWjGSWf_MSflzXL6nnALmows67kR1dGvq7g&code_challenge_method=S256&scope=repo+gist+notifications+user+project+codespace+workflow+read%3Aorg"
+}
+[2026-03-14 16:12:42.473] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": false,
+  "newUrl": "https://github.com/login/oauth/authorize?client_id=Ov23lisFSzTZajRDJDwO&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Frest%2Fconnections%2Foauth_callback&response_type=code&state=eyJ1c2VyX2lkIjoyNjQ5ODEyNTcsIm9yZ2FuaXphdGlvbl91dWlkIjpudWxsLCJ2ZXJpZmllciI6InpBOFNqcGdXVDdGS3FmMndfdTlHMHlQSXJkdV8yb3NTT2xNd0xvUnRqT1B1eXVMSUVraG1tN0JBNFRjNWpBMzVJRTFLOEpzRHdRNmY1dzdBa0RYcDUwakpoeGw2V01yN3pfRmNhSGRBMGp5T2dHNWFwNEFfRG5xcE9ReFRHLWh1IiwicmVmZXJyZXIiOiJhc2siLCJyZWZlcnJlcl9pZCI6bnVsbCwiY29ubmVjdGlvbl90eXBlIjoiR0lUSFVCX01DUF9ESVJFQ1QiLCJhdXRvX2Nsb3NlIjp0cnVlfQ%3D%3D&actor=user&code_challenge=zAJ5AflxEWjGSWf_MSflzXL6nnALmows67kR1dGvq7g&code_challenge_method=S256&scope=repo+gist+notifications+user+project+codespace+workflow+read%3Aorg"
+}
+[2026-03-14 16:12:42.855] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": false,
+  "newUrl": "https://www.perplexity.ai/rest/connections/oauth_callback?code=482b442f1fc9fb493720&state=eyJ1c2VyX2lkIjoyNjQ5ODEyNTcsIm9yZ2FuaXphdGlvbl91dWlkIjpudWxsLCJ2ZXJpZmllciI6InpBOFNqcGdXVDdGS3FmMndfdTlHMHlQSXJkdV8yb3NTT2xNd0xvUnRqT1B1eXVMSUVraG1tN0JBNFRjNWpBMzVJRTFLOEpzRHdRNmY1dzdBa0RYcDUwakpoeGw2V01yN3pfRmNhSGRBMGp5T2dHNWFwNEFfRG5xcE9ReFRHLWh1IiwicmVmZXJyZXIiOiJhc2siLCJyZWZlcnJlcl9pZCI6bnVsbCwiY29ubmVjdGlvbl90eXBlIjoiR0lUSFVCX01DUF9ESVJFQ1QiLCJhdXRvX2Nsb3NlIjp0cnVlfQ%3D%3D"
+}
+[2026-03-14 16:12:43.372] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-14 16:14:46.734] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/https-github-com-b14w4r-dotfil-8rIGaNQHThOs5dY.5XhUWg)
+[2026-03-14 16:45:59.247] [info]  [main]: Electron ready
+[2026-03-14 16:45:59.340] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-14 16:45:59.357] [info]  [main]: App ready
+[2026-03-14 16:46:00.145] [info]  [main]: Equip new web contents for window created via API
+[2026-03-14 16:46:00.445] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-14 16:46:00.446] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-14 16:46:00.873] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-14 16:46:06.172] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/https-github-com-b14w4r-dotfil-8rIGaNQHThOs5dY.5XhUWg)
+[2026-03-14 19:48:41.397] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/spaces"
+}
+[2026-03-14 19:48:41.565] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces?__cf_chl_rt_tk=RR_sT6jq628BlWoEek.AJyIL0VlFoI5VaJOVhlKETkQ-1773506921-1.0.1.1-YzTcOHoj5Co_FKIW4XY1lgE4B5gyGUvgGCwVLobCjLg)
+[2026-03-14 19:48:41.729] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-14 19:48:47.461] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces?__cf_chl_tk=RR_sT6jq628BlWoEek.AJyIL0VlFoI5VaJOVhlKETkQ-1773506921-1.0.1.1-YzTcOHoj5Co_FKIW4XY1lgE4B5gyGUvgGCwVLobCjLg)
+[2026-03-14 19:48:47.462] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/spaces"
+}
+[2026-03-14 19:48:48.202] [info]  [main]: Equip new web contents for window created via API
+[2026-03-14 19:48:48.292] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-14 19:48:48.292] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-14 19:48:48.858] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-14 19:48:52.593] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/novyi-space-KXIyZGKiQHaTQOjYtLsr_w)
+[2026-03-14 19:58:59.714] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/slushai-u-menia-est-uchenik-s-Tn1MbqqVQtuH2fhhWX7ucA)
+[2026-03-15 00:59:21.787] [info]  [main]: Electron ready
+[2026-03-15 00:59:21.881] [info]  [main]: Window opened at {x: 0, y: 0, width: 1920, height: 1080}
+[2026-03-15 00:59:21.897] [info]  [main]: App ready
+[2026-03-15 00:59:23.209] [info]  [main]: Equip new web contents for window created via API
+[2026-03-15 00:59:23.358] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2026-03-15 00:59:23.359] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2026-03-15 00:59:23.726] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2026-03-15 00:59:25.395] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces)
+[2026-03-15 00:59:27.695] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/os-hDAPz584TU.kzFZbCDia6g)
+[2026-03-15 00:59:31.467] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/https-github-com-b14w4r-dotfil-8rIGaNQHThOs5dY.5XhUWg)
+[2026-03-15 01:00:51.084] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/https-github-com-b14w4r-dotfil-8rIGaNQHThOs5dY.5XhUWg?sm=d)
+[2026-03-15 01:26:17.794] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "/usr/lib/perplexity"
+}
+[2026-03-15 01:26:17.794] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "/usr/lib/perplexity",
+  "isValidDeeplink": false
+}

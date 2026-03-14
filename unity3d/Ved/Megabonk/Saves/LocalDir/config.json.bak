@@ -53,8 +53,8 @@
     "ambient_occlusion": 1
   },
   "cfAudioSettings": {
-    "master_volume": 0.112903424,
-    "music": 0.274193734,
+    "master_volume": 0.0483872928,
+    "music": 0.0,
     "game_sfx": 1.0,
     "ambience": 1.0,
     "ui": 1.0,
@@ -114,7 +114,7 @@
       "Fox": 2,
       "Calcium": 0,
       "SirOofie": 3,
-      "Cl4nk": 1,
+      "Cl4nk": 2,
       "Megachad": 3,
       "Ogre": 0,
       "Robinette": 1,

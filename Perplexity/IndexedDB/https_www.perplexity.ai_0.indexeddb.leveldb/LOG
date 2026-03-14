@@ -17,3 +17,57 @@
 2026/03/15-01:04:34.567 ea3 compacted to: files[ 0 1 1 0 0 0 0 ]
 2026/03/15-01:04:34.567 ea3 Delete type=2 #2233
 2026/03/15-01:04:34.567 ea3 Delete type=2 #2235
+2026/03/15-02:04:33.850 ea3 Compacting 1@1 + 1@2 files
+2026/03/15-02:04:33.856 ea3 Generated table #2237@1: 1071 keys, 572236 bytes
+2026/03/15-02:04:33.856 ea3 Compacted 1@1 + 1@2 files => 572236 bytes
+2026/03/15-02:04:33.857 ea3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/15-02:04:33.857 ea3 Delete type=2 #2236
+2026/03/15-02:04:33.857 ea3 Delete type=2 #2222
+2026/03/15-02:06:04.735 e5f Level-0 table #2239: started
+2026/03/15-02:06:04.748 e5f Level-0 table #2239: 1788997 bytes OK
+2026/03/15-02:06:04.750 e5f Delete type=0 #2234
+2026/03/15-02:06:09.728 ea3 Level-0 table #2241: started
+2026/03/15-02:06:09.740 ea3 Level-0 table #2241: 1118009 bytes OK
+2026/03/15-02:06:09.742 ea3 Delete type=0 #2238
+2026/03/15-02:06:14.519 ea3 Level-0 table #2243: started
+2026/03/15-02:06:14.530 ea3 Level-0 table #2243: 1121744 bytes OK
+2026/03/15-02:06:14.531 ea3 Delete type=0 #2240
+2026/03/15-02:06:14.534 e5f Compacting 1@1 + 1@2 files
+2026/03/15-02:06:14.542 e5f Generated table #2244@1: 1058 keys, 500163 bytes
+2026/03/15-02:06:14.542 e5f Compacted 1@1 + 1@2 files => 500163 bytes
+2026/03/15-02:06:14.543 e5f compacted to: files[ 2 0 1 0 0 0 0 ]
+2026/03/15-02:06:14.544 e5f Delete type=2 #2237
+2026/03/15-02:06:14.544 e5f Delete type=2 #2239
+2026/03/15-02:06:17.110 e5f Level-0 table #2246: started
+2026/03/15-02:06:17.117 e5f Level-0 table #2246: 1113385 bytes OK
+2026/03/15-02:06:17.118 e5f Delete type=0 #2242
+2026/03/15-02:06:17.989 e5f Compacting 3@0 + 0@1 files
+2026/03/15-02:06:17.999 e5f Generated table #2247@0: 420 keys, 72806 bytes
+2026/03/15-02:06:17.999 e5f Compacted 3@0 + 0@1 files => 72806 bytes
+2026/03/15-02:06:18.000 e5f compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/15-02:06:18.000 e5f Delete type=2 #2241
+2026/03/15-02:06:18.001 e5f Delete type=2 #2243
+2026/03/15-02:06:18.001 e5f Delete type=2 #2246
+2026/03/15-02:06:23.305 e5f Level-0 table #2249: started
+2026/03/15-02:06:23.319 e5f Level-0 table #2249: 1959579 bytes OK
+2026/03/15-02:06:23.321 e5f Delete type=0 #2245
+2026/03/15-02:07:31.878 ea4 Level-0 table #2251: started
+2026/03/15-02:07:31.891 ea4 Level-0 table #2251: 1697780 bytes OK
+2026/03/15-02:07:31.892 ea4 Delete type=0 #2248
+2026/03/15-02:07:33.020 ea4 Level-0 table #2253: started
+2026/03/15-02:07:33.030 ea4 Level-0 table #2253: 944010 bytes OK
+2026/03/15-02:07:33.034 ea4 Delete type=0 #2250
+2026/03/15-02:07:38.623 e5f Compacting 3@0 + 1@1 files
+2026/03/15-02:07:38.635 e5f Generated table #2254@0: 1072 keys, 154206 bytes
+2026/03/15-02:07:38.635 e5f Compacted 3@0 + 1@1 files => 154206 bytes
+2026/03/15-02:07:38.636 e5f compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/15-02:07:38.636 e5f Delete type=2 #2251
+2026/03/15-02:07:38.636 e5f Delete type=2 #2249
+2026/03/15-02:07:38.636 e5f Delete type=2 #2247
+2026/03/15-02:07:38.636 e5f Delete type=2 #2253
+2026/03/15-02:22:00.025 ea3 Compacting 1@1 + 1@2 files
+2026/03/15-02:22:00.035 ea3 Generated table #2255@1: 1062 keys, 578966 bytes
+2026/03/15-02:22:00.035 ea3 Compacted 1@1 + 1@2 files => 578966 bytes
+2026/03/15-02:22:00.036 ea3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/15-02:22:00.036 ea3 Delete type=2 #2244
+2026/03/15-02:22:00.036 ea3 Delete type=2 #2254
